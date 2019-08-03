@@ -1,1 +1,2 @@
-some work  to leraning about python .just to memory.
+some works  to leraning about python .just to memory and record.
+  
